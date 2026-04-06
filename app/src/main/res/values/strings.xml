@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SIT708_4_1P</string>
+    <string-array name="category_array">
+        <item>Work</item>
+        <item>Social</item>
+        <item>Travel</item>
+        <item>Other</item>
+    </string-array>
+</resources>
