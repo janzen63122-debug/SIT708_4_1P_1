@@ -11,7 +11,7 @@ The Personal Event Planner is a native Android application designed to help user
 **Input Validation:** Prevents saving events with empty fields or dates/times set in the past.\
 **User Feedback:** Utilizes Toasts to confirm successful saves, updates, deletions, and validation errors.
 
-## 🚀 How to Run the App
+## How to Run the App
 1. Clone this repository to your local machine.
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
